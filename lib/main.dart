@@ -237,7 +237,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                 borderSide: BorderSide(
                                     color: Colors.purple, width: 1.0),
                               ),
-                              hintText: 'Message'),
+                              hintText: 'Message12121212'),
                           style: const TextStyle(height: 0.5),
                           controller: _messageController,
                         ),
